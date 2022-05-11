@@ -1,0 +1,19 @@
+\sqrt{\sqrt{\sqrt{2}}}
+
+\cos(\sqrt{x})
+
+\cos(y)
+
+\sqrt{\cos(\sqrt{2})}
+
+\sqrt{5}
+
+\sqrt[2]{5}
+
+\sqrt[2]{\cos(\sqrt{3})}
+
+\lfloor \arccos(\cos(x)) \rfloor
+
+\lceil \sin(x) \rceil
+
+\sqrt[5]{\arctan(\arcsin(\arccos(y)))}

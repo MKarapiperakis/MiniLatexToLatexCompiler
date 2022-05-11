@@ -1,0 +1,6 @@
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarLexer.cs
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarParser.cs
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarListener.cs
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarBaseListener.cs
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarVisitor.cs
+C:\Users\Manos\Desktop\LatexCompiler\LatexCompiler\obj\Debug\GrammarBaseVisitor.cs
